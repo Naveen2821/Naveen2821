@@ -1,16 +1,17 @@
-## Hi there 👋
+# K Naveen Nayak
 
-<!--
-**Naveen2821/Naveen2821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## 🌐 My Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit My Portfolio](https://naveen2821.github.io/naveen-portfolio/)
+
+## 💻 Skills
+
+C · C++ · Python · SQL · React · AI/ML · Data Science
+
+## 🚀 Projects
+
+- Smart Parking IoT System
+- HomeCure Medicine Reminder
+- 2D Graphics Editor
